@@ -38,10 +38,6 @@
     },
     {
       "enable": 1,
-      "url": "https://flyx099.github.io/repo/"
-    },
-    {
-      "enable": 1,
       "url": "https://jailrepo.initnil.com/"
     },
     {
