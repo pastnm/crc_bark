@@ -1,6 +1,6 @@
 {
   "bark": {
-    "is_archive": 0,
+    "is_archive": 1,
     "Hello_World": 0,
     "level": "active",
     "title": "来自 crc - repo_name 已变更",
@@ -10,7 +10,7 @@
       "del": "下列软件包已移除：",
       "up": "下列软件包已更新："
     },
-    "sound": "silence"
+    "sound": "healthnotification"
   },
   "enable": 1,
   "use_name": 0,
@@ -38,11 +38,19 @@
     },
     {
       "enable": 1,
+      "url": "https://flyx099.github.io/repo/"
+    },
+    {
+      "enable": 1,
       "url": "https://jailrepo.initnil.com/"
     },
     {
       "enable": 1,
       "url": "https://apt.82flex.com/"
+    },
+    {
+      "enable": 1,
+      "url": "https://m4fn3.github.io/repo/"
     },
     {
       "enable": 1,
