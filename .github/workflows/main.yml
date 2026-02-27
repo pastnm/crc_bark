@@ -1,12 +1,9 @@
-name: "crc"
+name: crc
 
 on:
   workflow_dispatch:
   repository_dispatch:
     types: [trigger-crc]
-  schedule:
-    - cron: '10 * * * *'
-    - cron: '40 * * * *'
 
 jobs:
   crc:
