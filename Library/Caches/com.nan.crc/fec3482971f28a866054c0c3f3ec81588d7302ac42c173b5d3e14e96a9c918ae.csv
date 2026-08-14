@@ -1,14 +1,17 @@
 Package,Name,Version,Architecture
 com.m4fn3.badgecolorfix17,BadgeColorFix17,1.0.0,iphoneos-arm64
+com.m4fn3.bajji,Bajji,1.0.0,iphoneos-arm64e
 com.m4fn3.gommirativ,Gommirativ,1.0.0,iphoneos-arm64
 com.m4fn3.k2ge3,K2ge3,1.0.6,iphoneos-arm64
 com.m4fn3.k2ge3air,K2ge3Air,1.0.7,iphoneos-arm64e
 com.m4fn3.k2gecamen,K2gecamen,1.1.0,iphoneos-arm64
 com.m4fn3.k2geisland,K2geIsland,1.0.1,iphoneos-arm64
 com.m4fn3.k2genmity,K2genmity,2.0.1,iphoneos-arm64
-com.m4fn3.mikkyy,Mikkyy,1.0.1,iphoneos-arm64e
+com.m4fn3.mikkyy,Mikkyy,1.0.2,iphoneos-arm64e
 com.m4fn3.mipip,miPiP,1.0.1,iphoneos-arm64e
 com.m4fn3.myrtle,Myrtle,1.4.1,iphoneos-arm64e
+com.noisyflake.velvet2,Velvet 2,2.2.0,iphoneos-arm64e
+com.rpgfarm.a-font,A-Font,2.0.0,iphoneos-arm64e
 com.strejda603.documentsbyreaddlepremium,Documents by Readdle (Plus),1.0.1,iphoneos-arm64
 com.subdiox.ufjpatch,UFJ Patch,1.0,iphoneos-arm64
 com.yan.minibea,MiniBea,0.2,iphoneos-arm64e
