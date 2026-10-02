@@ -38,6 +38,10 @@
     },
     {
       "enable": 1,
+      "url": "https://rootless.002599.xyz/"
+    },
+    {
+      "enable": 1,
       "url": "https://havoc.app/"
     },
     {
