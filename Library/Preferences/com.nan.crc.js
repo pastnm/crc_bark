@@ -32,6 +32,9 @@
       "enable": 1,
       "url": "https://repo.chariz.com/"
     },
+    "enable": 1,
+      "url": "https:/apt.owngoal.dev/"
+    },
     {
       "enable": 1,
       "url": "https://havoc.app/"
