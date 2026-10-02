@@ -32,7 +32,8 @@
       "enable": 1,
       "url": "https://repo.chariz.com/"
     },
-    "enable": 1,
+    {
+      "enable": 1,
       "url": "https:/apt.owngoal.dev/"
     },
     {
