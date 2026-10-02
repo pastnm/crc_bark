@@ -1,0 +1,46 @@
+Package,Name,Version,Architecture
+cn.llld.biaoji,截图标记-rootless,1.3,iphoneos-arm64e
+cn.llld.kbtool,PTools(keyboard) (roothide),3.5.0-2,iphoneos-arm64e
+cn.llld.qsyy,FT悬浮文本增强替换翻译汉化,2.3.1-3,iphoneos-arm64
+cn.zqbb.3dtouch.inject.roothide,白名单注入之长按图标 (RootHide),2.1,iphoneos-arm64e
+cn.zqbb.appdata,Hello AppData,1.5.0-5,iphoneos-arm64e
+cn.zqbb.ccatop.relaxin.whitelist,CocoaTop64 (Relaxin Whitelist),2.3.3-3,iphoneos-arm64e
+cn.zqbb.cocoatop64.inject.roothide,CocoaTop64 inject (RootHide),3.2.0,iphoneos-arm64e
+cn.zqbb.cocoatop64.relaxin,CocoaTop64 Relaxin,2.3.3-2,iphoneos-arm64e
+cn.zqbb.disupdateapp,Hello App,2.0.0-6,iphoneos-arm64e
+cn.zqbb.editprefs,Hello Edit Prefs,1.1.0,iphoneos-arm64e
+cn.zqbb.fix120hz,Hello 120Hz,3.3.3-3,iphoneos-arm64e
+cn.zqbb.fix120hz15,iOS15免费版 120Hz Fix,1.1.0-1,iphoneos-arm64
+cn.zqbb.helloarea,Hello Area,0.0.3,iphoneos-arm64
+cn.zqbb.hello.bundleid,HelloBundleID,1.6.1-2,iphoneos-arm64e
+cn.zqbb.hello.dateformatter,Hello DateFormatter,1.0,iphoneos-arm64e
+cn.zqbb.hello.dynamiclandbye,Hello 迷失岛,2.2.0,iphoneos-arm64e
+cn.zqbb.hello.fix.shortcut,Hello Shortcut 17,1.0,iphoneos-arm64e
+cn.zqbb.hello.ips,Hello IPS,1.6.2,iphoneos-arm64e
+cn.zqbb.hello.keyboard.ai,Hello 键盘侠 (roothide),6.6.6-2,iphoneos-arm64e
+cn.zqbb.hello.memorystatus,Hello Memory Status,3.9.0-6,iphoneos-arm64e
+cn.zqbb.hello.mnt,HelloMnt,1.2.2,iphoneos-arm64e
+cn.zqbb.hellopay,Hello Pay,1.0.2,iphoneos-arm64e
+cn.zqbb.hello.qactions,Hello QActions,1.3.0-1,iphoneos-arm64e
+cn.zqbb.hellospeed,Hello Speed,1.2.2,iphoneos-arm64e
+cn.zqbb.hello.tim,Hello TIM,1.1,iphoneos-arm64e
+cn.zqbb.holdcpu,Hello CPU,2.3.5-5,iphoneos-arm64e
+cn.zqbb.inject.manager,RootHide Inject Manager,3.2.1-5,iphoneos-arm64e
+cn.zqbb.jailfools,JailFools,5.2.3,iphoneos-arm64e
+cn.zqbb.orzfolder,Hello Folder,1.6.1-3,iphoneos-arm64e
+cn.zqbb.phonekey.reset,PhoneKeyReset 拨号键复位,1.0.3,iphoneos-arm64e
+cn.zqbb.stopautolaunchapps,Hello 3Q,2.5,iphoneos-arm64e
+codes.aurora.kayoko,Hello Kayoko,3.6.1,iphoneos-arm64e
+com.netskao.wcdisablehotupdates,微信禁用热更新,1.1-5,iphoneos-arm64e
+com.officialscheduler.mterminal-rootless,MTerminal-Rootless,1.4-1,iphoneos-arm64
+com.opa334.altlist,AltList,1.0.11,iphoneos-arm64e
+com.opa334.ccsupport,CCSupport,1.3.13-2,iphoneos-arm64
+com.opa334.trollstorelite,TrollStore Lite (RootHide),2.1.1-1,iphoneos-arm64e
+com.zqbb.limitcharging,Hello Charging,1.0.8,iphoneos-arm64e
+com.zqbb.savephotos,Hello Snapper,1.1,iphoneos-arm64
+ellekit,ElleKit,1.2,iphoneos-arm64e
+mterminal,MTerminal - xina,1.6,iphoneos-arm64
+preferenceloader.top,PreferenceLoader (Top),2.2.8-2,iphoneos-arm64e
+zp.3dtouchtounject.rootless,禁止注入之长按图标 - rootless,1.0.2,iphoneos-arm64
+zp.cocoatop64.unject,CocoaTop64.zp,3.1.2,iphoneos-arm64e
+zp.dopamine.blacklist,DopamineBlackList,0.0.1-1,iphoneos-arm64
