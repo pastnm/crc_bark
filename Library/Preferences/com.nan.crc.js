@@ -34,7 +34,7 @@
     },
     {
       "enable": 1,
-      "url": "https:/apt.owngoal.dev/"
+      "url": "https://apt.owngoal.dev/"
     },
     {
       "enable": 1,
