@@ -46,6 +46,10 @@
     },
     {
       "enable": 1,
+      "url": "https://wkkyy00.github.io/"
+    },
+    {
+      "enable": 1,
       "url": "https://flyx099.github.io/repo/"
     },
     {
