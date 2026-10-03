@@ -1,6 +1,6 @@
 Package,Name,Version,Architecture
 com.82flex.cranepkdserverfix,Crane PKDServer Fix,0.0.1,iphoneos-arm64e
-com.icli.icli,icli,0.7.14,iphoneos-arm64e
+com.icli.icli,icli,0.7.15,iphoneos-arm64e
 com.opa334.trollstorelite,TrollStore Lite (RootHide),2.1.1-1,iphoneos-arm64e
 wiki.qaq.claude,Claude Code,2.1.288,iphoneos-arm64e
 wiki.qaq.codex,codex,0.160.0,iphoneos-arm64e
@@ -10,9 +10,9 @@ wiki.qaq.fish,fish,4.9.3,iphoneos-arm64e
 wiki.qaq.grok,grok,1.0.45,iphoneos-arm64e
 wiki.qaq.ighostvt,iGhostVT,1.0.9,xros-arm64e
 wiki.qaq.inspector,Inspector,0.6.3,iphoneos-arm64e
-wiki.qaq.irisin,Irisin,4.5.19,iphoneos-arm64e
+wiki.qaq.irisin,Irisin,4.5.20,iphoneos-arm64e
 wiki.qaq.kk,kk,0.1.44,iphoneos-arm64e
 wiki.qaq.mako,Mako,0.1.2,iphoneos-arm64e
 wiki.qaq.umbra,Umbra (RootHide Manager),2.0,iphoneos-arm64e
 wiki.qaq.uutils,uutils coreutils,0.12.0,iphoneos-arm64e
-wiki.qaq.xrash,Xrash,0.4.15,iphoneos-arm64e
+wiki.qaq.xrash,Xrash,0.4.16,iphoneos-arm64e
