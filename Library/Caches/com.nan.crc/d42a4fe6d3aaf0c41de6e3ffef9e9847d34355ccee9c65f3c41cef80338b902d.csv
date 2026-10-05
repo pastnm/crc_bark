@@ -2,8 +2,8 @@ Package,Name,Version,Architecture
 com.82flex.cranepkdserverfix,Crane PKDServer Fix,0.0.1,iphoneos-arm64e
 com.icli.icli,icli,0.7.16,iphoneos-arm64e
 com.opa334.trollstorelite,TrollStore Lite (RootHide),2.1.1-2,iphoneos-arm64e
-owngoal-bootstrap-vphone,OwnGoal Bootstrap for vphone,1.0.0,iphoneos-arm64e
-owngoal-essential-apps,OwnGoal Essential Apps,1.0.0,iphoneos-arm64e
+owngoal-bootstrap-vphone,OwnGoal Bootstrap for vphone,1.0.1,iphoneos-arm64e
+owngoal-essential-apps,OwnGoal Essential Apps,1.0.1,iphoneos-arm64e
 wiki.qaq.claude,Claude Code,2.1.289,iphoneos-arm64e
 wiki.qaq.codex,codex,0.160.0,iphoneos-arm64e
 wiki.qaq.fastfetch,fastfetch,2.69.0,iphoneos-arm64e
