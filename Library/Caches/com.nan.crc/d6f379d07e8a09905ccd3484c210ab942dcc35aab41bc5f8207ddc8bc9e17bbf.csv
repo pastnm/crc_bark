@@ -1,7 +1,5 @@
 Package,Name,Version,Architecture
 cn.llld.biaoji,截图标记-rootless,1.3,iphoneos-arm64e
-cn.llld.kbtool,PTools(keyboard) (roothide),3.5.0-2,iphoneos-arm64e
-cn.llld.qsyy,FT悬浮文本增强替换翻译汉化,2.3.1-3,iphoneos-arm64
 cn.zqbb.3dtouch.inject.roothide,白名单注入之长按图标 (RootHide),2.1,iphoneos-arm64e
 cn.zqbb.appdata,Hello AppData,1.5.0-5,iphoneos-arm64e
 cn.zqbb.ccatop.relaxin.whitelist,CocoaTop64 (Relaxin Whitelist),2.3.3-3,iphoneos-arm64e
