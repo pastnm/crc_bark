@@ -30,6 +30,10 @@
     },
     {
       "enable": 1,
+      "url": "https://qq391160.github.io/repo/"
+    },
+    {
+      "enable": 1,
       "url": "https://repo.chariz.com/"
     },
     {
