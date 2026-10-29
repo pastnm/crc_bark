@@ -17,7 +17,7 @@ owngoal-bootstrap-vphone,OwnGoal Bootstrap for vphone,1.0.1,iphoneos-arm64e
 owngoal-essential-apps,OwnGoal Essential Apps,1.0.1,iphoneos-arm64e
 preferenceloader,PreferenceLoader,2.2.8,iphoneos-arm64e
 rootless-compat,rootless-compat,2.0.1,iphoneos-arm64e
-wiki.qaq.apelin,Apelin,0.2.7,iphoneos-arm64e
+wiki.qaq.apelin,Apelin,0.2.8,iphoneos-arm64e
 wiki.qaq.apelin.agent-tools.assembler,Apelin Assembler,1.0.0,iphoneos-arm64e
 wiki.qaq.apelin.agent-tools.disassembler,Apelin Disassembler,1.1.0,iphoneos-arm64e
 wiki.qaq.apelin.dev.app,Apelin App Development,0.1.0,iphoneos-arm64e
@@ -33,7 +33,7 @@ wiki.qaq.fish,fish,4.9.3,iphoneos-arm64e
 wiki.qaq.grok,grok,1.0.45,iphoneos-arm64e
 wiki.qaq.idownload-cli,idownload-cli,0.0.1,iphoneos-arm64e
 wiki.qaq.ighostvt,iGhostVT,1.6.20,iphoneos-arm64e
-wiki.qaq.inspector,Inspector,0.6.7,iphoneos-arm64e
+wiki.qaq.inspector,Inspector,0.6.8,iphoneos-arm64e
 wiki.qaq.irisin,Irisin,5.0.4,iphoneos-arm64e
 wiki.qaq.kk,kk,0.1.99,iphoneos-arm64e
 wiki.qaq.mako,Mako,0.1.2,iphoneos-arm64e
