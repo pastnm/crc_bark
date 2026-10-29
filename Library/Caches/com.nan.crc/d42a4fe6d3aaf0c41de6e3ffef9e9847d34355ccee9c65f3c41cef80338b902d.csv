@@ -17,13 +17,13 @@ owngoal-bootstrap-vphone,OwnGoal Bootstrap for vphone,1.2.0,iphoneos-arm64e
 owngoal-essential-apps,OwnGoal Essential Apps,1.0.1,iphoneos-arm64e
 preferenceloader,PreferenceLoader,2.2.8,iphoneos-arm64e
 rootless-compat,rootless-compat,2.0.1,iphoneos-arm64e
-wiki.qaq.apelin,Apelin,0.2.9,iphoneos-arm64e
+wiki.qaq.apelin,Apelin,0.3.0,iphoneos-arm64e
 wiki.qaq.apelin.agent-tools.assembler,Apelin Assembler,1.0.0,iphoneos-arm64e
 wiki.qaq.apelin.agent-tools.disassembler,Apelin Disassembler,1.1.0,iphoneos-arm64e
-wiki.qaq.apelin.dev.app,Apelin App Development,0.1.0,iphoneos-arm64e
-wiki.qaq.apelin.dev.cli,Apelin Command-Line Tool Development,0.1.1,iphoneos-arm64e
-wiki.qaq.apelin.dev.preferences,Apelin Preference Bundle Development,0.1.1,iphoneos-arm64e
-wiki.qaq.apelin.dev.tweak,Apelin Tweak Development,0.1.0,iphoneos-arm64e
+wiki.qaq.apelin.dev.app,Apelin App Development,0.1.1,iphoneos-arm64e
+wiki.qaq.apelin.dev.cli,Apelin Command-Line Tool Development,0.1.2,iphoneos-arm64e
+wiki.qaq.apelin.dev.preferences,Apelin Preference Bundle Development,0.1.2,iphoneos-arm64e
+wiki.qaq.apelin.dev.tweak,Apelin Tweak Development,0.1.1,iphoneos-arm64e
 wiki.qaq.claude,Claude Code,2.1.312,iphoneos-arm64e
 wiki.qaq.codex,codex,0.163.0,iphoneos-arm64e
 wiki.qaq.duostatusring,DuoStatusRing,1.0.1,iphoneos-arm64e
