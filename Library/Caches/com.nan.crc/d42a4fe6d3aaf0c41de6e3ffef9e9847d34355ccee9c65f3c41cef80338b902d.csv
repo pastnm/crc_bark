@@ -18,7 +18,7 @@ owngoal-bootstrap-vphone,OwnGoal Bootstrap for vphone,1.2.0,iphoneos-arm64e
 owngoal-essential-apps,OwnGoal Essential Apps,1.0.1,iphoneos-arm64e
 preferenceloader,PreferenceLoader,2.2.8,iphoneos-arm64e
 rootless-compat,rootless-compat,2.0.1,iphoneos-arm64e
-wiki.qaq.apelin,Apelin,0.4.0,iphoneos-arm64e
+wiki.qaq.apelin,Apelin,0.4.1,iphoneos-arm64e
 wiki.qaq.apelin.agent-tools.assembler,Apelin Assembler,1.0.0,iphoneos-arm64e
 wiki.qaq.apelin.agent-tools.disassembler,Apelin Disassembler,1.1.0,iphoneos-arm64e
 wiki.qaq.apelin.dev.app,Apelin App Development,0.1.1,iphoneos-arm64e
@@ -35,12 +35,12 @@ wiki.qaq.grok,grok,1.0.45,iphoneos-arm64e
 wiki.qaq.idownload-cli,idownload-cli,0.0.1,iphoneos-arm64e
 wiki.qaq.ighostvt,iGhostVT,1.6.26,iphoneos-arm64e
 wiki.qaq.inspector,Inspector,0.6.9,iphoneos-arm64e
-wiki.qaq.irisin,Irisin,5.1.7,iphoneos-arm64e
+wiki.qaq.irisin,Irisin,5.1.8,iphoneos-arm64e
 wiki.qaq.kk,kk,0.1.114,iphoneos-arm64e
 wiki.qaq.mako,Mako,0.1.2,iphoneos-arm64e
 wiki.qaq.umbra,Umbra (RootHide Manager),2.2.3,iphoneos-arm64e
 wiki.qaq.umbra.patcher,Umbra Patcher,3.0,iphoneos-arm64e
 wiki.qaq.uutils,uutils coreutils,0.12.0,iphoneos-arm64e
-wiki.qaq.xrash,Xrash,0.5.7,iphoneos-arm64e
+wiki.qaq.xrash,Xrash,0.5.8,iphoneos-arm64e
 ws.hbang.alderis,Alderis Color Picker,1.2.3-8+debug,iphoneos-arm64e
 ws.hbang.common,Cephei Tweak Support,2.0-51,iphoneos-arm64e
